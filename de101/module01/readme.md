@@ -2,8 +2,8 @@
 
 ## Файлы:
 <ul>
-  <li>Домашнее задание - [Архитектура Аналитического Решения](https://github.com/khaibrakhmanov04/datalearn/blob/main/de101/module01/Data%20mindmap.pdf).</li>
-  <li>Домашнее задание - [Аналитика в Excel](https://github.com/khaibrakhmanov04/datalearn/blob/main/de101/module01/Sales%20report%20(clean).xlsm)</li>
+  <li>Домашнее задание - [Архитектура Аналитического Решения](https://github.com/khaibrakhmanov04/datalearn/blob/main/de101/module01/Data%20mindmap.pdf) </li>
+  <li>Домашнее задание - [Аналитика в Excel](https://github.com/khaibrakhmanov04/datalearn/blob/main/de101/module01/Sales%20report%20(clean).xlsm) </li>
 </ul>
 
 
