@@ -2,7 +2,7 @@
 
 ## Файлы:
   - Домашнее задание - [Архитектура Аналитического Решения](https://github.com/khaibrakhmanov04/datalearn/blob/main/de101/module01/Data%20mindmap.pdf) 
-  - Домашнее задание - [Аналитика в Excel](https://github.com/khaibrakhmanov04/datalearn/blob/main/de101/module01/Sales%20report%20(clean).xlsm) 
+  - Домашнее задание - [Аналитика в Excel](https://github.com/khaibrakhmanov04/datalearn/raw/main/de101/module01/Sales%20report%20(clean).xlsm) 
 
 
 
